@@ -1,4 +1,22 @@
-# Git_Course-
-Git_Course _For beginner 
+# Hi, I'm Hanin 👋
 
-### Hi
+Frontend Developer focused on building clean and responsive web interfaces.
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📂 Projects
+- Landing Page using HTML & CSS
+- JavaScript Todo App
+- DOM Manipulation Practice
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- C#
+
+## 📫 Contact
+- GitHub: https://github.com/USERNAME
+- LinkedIn: coming soon
